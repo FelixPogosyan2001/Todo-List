@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.container-fluid {
+  width:100vw;
+  text-align: center
+}
+
+#addingTodo {
+  text-align: center
+}
+
